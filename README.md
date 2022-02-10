@@ -1,4 +1,4 @@
-# Hardening scripts for ArchLinux
+# Hardening scripts for Arch Linux
 
 ## Hardenings
 
@@ -21,3 +21,4 @@ Run the scripts you need or all scripts with `./complete_hardening.sh`
 - [https://wiki.archlinux.org/title/MAC_address_spoofing](https://wiki.archlinux.org/title/MAC_address_spoofing)
 - [https://lopes.id/hardening-arch-linux/](https://lopes.id/hardening-arch-linux/)
 - [https://theprivacyguide1.github.io/linux_hardening_guide](https://theprivacyguide1.github.io/linux_hardening_guide)
+- [https://thacoon.gitlab.io/posts/arch-linux-hardened-kernel/](https://thacoon.gitlab.io/posts/arch-linux-hardened-kernel/)
